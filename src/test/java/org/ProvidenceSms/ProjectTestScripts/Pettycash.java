@@ -16,7 +16,7 @@ public class Pettycash {
 //		long timeouts = (Long) (javaUtility.convertStringToAnyData(timeout,DataType.LONG));
 //		
 //		driver = webdriverUtility.openBrowserAndApplication(browser,timeouts,url);
-//		
+//		testyantra
 //
 //		String teacherUN = property.getDataFromPropertyFile("Teacher_UN2");
 //		String teacherPWD = property.getDataFromPropertyFile("Teacher_PWD2");

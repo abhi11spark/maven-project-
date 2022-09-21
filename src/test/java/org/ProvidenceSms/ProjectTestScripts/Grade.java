@@ -99,7 +99,7 @@ public class Grade {
 			System.out.println("entered hall charges is updated...");
 			
 		}
-
+                 //delet web element
 		driver.findElement(By.xpath("//a[text()='Delete']")).click();
 		Thread.sleep(4000);
 		driver.findElement(By.id("btnYes")).click();
